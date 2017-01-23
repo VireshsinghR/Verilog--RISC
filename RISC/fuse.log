@@ -1,0 +1,29 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "F:/Verilog Projects/RISC/TEST_TOP_tb_isim_beh.exe" -prj "F:/Verilog Projects/RISC/TEST_TOP_tb_beh.prj" "work.TEST_TOP_tb" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "F:/Verilog Projects/RISC/../DSP_Proj/DSP_Proj/PC.v" into library work
+Analyzing Verilog file "F:/Verilog Projects/RISC/../DSP_Proj/DSP_Proj/MEMORY.v" into library work
+Analyzing Verilog file "F:/Verilog Projects/RISC/../DSP_Proj/DSP_Proj/Instruc_Memory.v" into library work
+Analyzing Verilog file "F:/Verilog Projects/RISC/../DSP_Proj/DSP_Proj/Control_Unit.v" into library work
+Analyzing Verilog file "F:/Verilog Projects/RISC/../DSP_Proj/DSP_Proj/ALU.v" into library work
+Analyzing Verilog file "F:/Verilog Projects/RISC/../DSP_Proj/DSP_Proj/Processor_top_module.v" into library work
+Analyzing Verilog file "F:/Verilog Projects/RISC/../DSP_Proj/DSP_Proj/TEST_TOP_tb.v" into library work
+Analyzing Verilog file "F:/Installations/XilinxISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module ALU
+Compiling module Control_Unit
+Compiling module PC
+Compiling module Instru_MEM_64x64
+Compiling module data_MEM_64x64
+Compiling module Processor_top_module
+Compiling module TEST_TOP_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 8 Verilog Units
+Built simulation executable F:/Verilog Projects/RISC/TEST_TOP_tb_isim_beh.exe
+Fuse Memory Usage: 29776 KB
+Fuse CPU Usage: 500 ms

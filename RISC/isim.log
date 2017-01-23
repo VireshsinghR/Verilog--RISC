@@ -1,0 +1,2600 @@
+ISim log file
+Running: F:\Verilog Projects\RISC\TEST_TOP_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb F:/Verilog Projects/RISC/TEST_TOP_tb_isim_beh.wdb 
+INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in reset
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  15
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  35
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  55
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+fetch 1                  85
+in no reset always block
+in nx_state
+fetch 2                  95
+in no reset always block
+in nx_state
+fetch 3                 105
+in no reset always block
+in nx_state
+in decode                 115
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in reset
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  15
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  35
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  55
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+fetch 1                  85
+in no reset always block
+in nx_state
+fetch 2                  95
+in no reset always block
+in nx_state
+fetch 3                 105
+in no reset always block
+in nx_state
+in decode                 115
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in reset
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  15
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  35
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  55
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+fetch 1                  85
+in no reset always block
+in nx_state
+fetch 2                  95
+in no reset always block
+in nx_state
+fetch 3                 105
+in no reset always block
+in nx_state
+in decode                 115
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in reset
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  15
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  35
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  55
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+fetch 1                  85
+in no reset always block
+in nx_state
+fetch 2                  95
+in no reset always block
+in nx_state
+fetch 3                 105
+in no reset always block
+in nx_state
+in decode                 115
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in reset
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  15
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  35
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  55
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+fetch 1                  85
+in no reset always block
+in nx_state
+fetch 2                  95
+in no reset always block
+in nx_state
+fetch 3                 105
+in no reset always block
+in nx_state
+in decode                 115
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in reset
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  15
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  35
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  55
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+fetch 1                  85
+in no reset always block
+in nx_state
+fetch 2                  95
+in no reset always block
+in nx_state
+fetch 3                 105
+in no reset always block
+in nx_state
+in decode                 115
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in reset
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  15
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  35
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  55
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+fetch 1                  85
+in no reset always block
+in nx_state
+fetch 2                  95
+in no reset always block
+in nx_state
+fetch 3                 105
+in no reset always block
+in nx_state
+in decode                 115
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+# isim force add /TEST_TOP_tb/uut/u3/PC_e 1 -radix bin
+# isim force add /TEST_TOP_tb/uut/u3/PC_e 1 -radix bin
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in reset
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  15
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  35
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  55
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+fetch 1                  85
+in no reset always block
+in nx_state
+fetch 2                  95
+in no reset always block
+in nx_state
+fetch 3                 105
+in no reset always block
+in nx_state
+in decode                 115
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in reset
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  15
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  35
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  55
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+fetch 1                  85
+in no reset always block
+in nx_state
+fetch 2                  95
+in no reset always block
+in nx_state
+fetch 3                 105
+in no reset always block
+in nx_state
+in decode                 115
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in reset
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  15
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  35
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+incremeting i memm addr
+in nx_state
+I am in !run_write                  55
+in no reset always block
+incremeting i memm addr
+in nx_state
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+fetch 1                  85
+in no reset always block
+in nx_state
+fetch 2                  95
+in no reset always block
+in nx_state
+fetch 3                 105
+in no reset always block
+in nx_state
+in decode                 115
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in reset
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  15
+in no reset always block
+incremeting i memm addr
+in no reset always block
+incremeting i memm addr
+in no reset always block
+incremeting i memm addr
+in no reset always block
+incremeting i memm addr
+in no reset always block
+incremeting i memm addr
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+in no reset always block
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  35
+in no reset always block
+in nx_state
+I am in !run_write                  45
+incremeting i memm addr
+in no reset always block
+in nx_state
+incremeting i memm addr
+in no reset always block
+in nx_state
+incremeting i memm addr
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+in run_write                  85
+in no reset always block
+in nx_state
+fetch 1                  95
+in no reset always block
+in nx_state
+fetch 1                 105
+in no reset always block
+in nx_state
+fetch 2                 115
+in no reset always block
+in nx_state
+fetch 2                 125
+in no reset always block
+in nx_state
+fetch 3                 135
+in no reset always block
+in nx_state
+fetch 3                 145
+in no reset always block
+in nx_state
+in decode                 155
+in no reset always block
+in nx_state
+in decode                 165
+in no reset always block
+in nx_state
+in decode                 175
+in no reset always block
+in nx_state
+in decode                 185
+in no reset always block
+in nx_state
+in decode                 195
+in no reset always block
+in nx_state
+in decode                 205
+in no reset always block
+in nx_state
+in decode                 215
+in no reset always block
+in nx_state
+in decode                 225
+in no reset always block
+in nx_state
+in decode                 235
+in no reset always block
+in nx_state
+in decode                 245
+in no reset always block
+in nx_state
+in decode                 255
+in no reset always block
+in nx_state
+in decode                 265
+in no reset always block
+in nx_state
+in decode                 275
+in no reset always block
+in nx_state
+in decode                 285
+in no reset always block
+in nx_state
+in decode                 295
+in no reset always block
+in nx_state
+in decode                 305
+in no reset always block
+in nx_state
+in decode                 315
+in no reset always block
+in nx_state
+in decode                 325
+in no reset always block
+in nx_state
+in decode                 335
+in no reset always block
+in nx_state
+in decode                 345
+in no reset always block
+in nx_state
+in decode                 355
+in no reset always block
+in nx_state
+in decode                 365
+in no reset always block
+in nx_state
+in decode                 375
+in no reset always block
+in nx_state
+in decode                 385
+in no reset always block
+in nx_state
+in decode                 395
+in no reset always block
+in nx_state
+in decode                 405
+in no reset always block
+in nx_state
+in decode                 415
+in no reset always block
+in nx_state
+in decode                 425
+in no reset always block
+in nx_state
+in decode                 435
+in no reset always block
+in nx_state
+in decode                 445
+in no reset always block
+in nx_state
+in decode                 455
+in no reset always block
+in nx_state
+in decode                 465
+in no reset always block
+in nx_state
+in decode                 475
+in no reset always block
+in nx_state
+in decode                 485
+in no reset always block
+in nx_state
+in decode                 495
+in no reset always block
+in nx_state
+in decode                 505
+in no reset always block
+in nx_state
+in decode                 515
+in no reset always block
+in nx_state
+in decode                 525
+in no reset always block
+in nx_state
+in decode                 535
+in no reset always block
+in nx_state
+in decode                 545
+in no reset always block
+in nx_state
+in decode                 555
+in no reset always block
+in nx_state
+in decode                 565
+in no reset always block
+in nx_state
+in decode                 575
+in no reset always block
+in nx_state
+in decode                 585
+in no reset always block
+in nx_state
+in decode                 595
+in no reset always block
+in nx_state
+in decode                 605
+in no reset always block
+in nx_state
+in decode                 615
+in no reset always block
+in nx_state
+in decode                 625
+in no reset always block
+in nx_state
+in decode                 635
+in no reset always block
+in nx_state
+in decode                 645
+in no reset always block
+in nx_state
+in decode                 655
+in no reset always block
+in nx_state
+in decode                 665
+in no reset always block
+in nx_state
+in decode                 675
+in no reset always block
+in nx_state
+in decode                 685
+in no reset always block
+in nx_state
+in decode                 695
+in no reset always block
+in nx_state
+in decode                 705
+in no reset always block
+in nx_state
+in decode                 715
+in no reset always block
+in nx_state
+in decode                 725
+in no reset always block
+in nx_state
+in decode                 735
+in no reset always block
+in nx_state
+in decode                 745
+in no reset always block
+in nx_state
+in decode                 755
+in no reset always block
+in nx_state
+in decode                 765
+in no reset always block
+in nx_state
+in decode                 775
+in no reset always block
+in nx_state
+in decode                 785
+in no reset always block
+in nx_state
+in decode                 795
+in no reset always block
+in nx_state
+in decode                 805
+in no reset always block
+in nx_state
+in decode                 815
+in no reset always block
+in nx_state
+in decode                 825
+in no reset always block
+in nx_state
+in decode                 835
+in no reset always block
+in nx_state
+in decode                 845
+in no reset always block
+in nx_state
+in decode                 855
+in no reset always block
+in nx_state
+in decode                 865
+in no reset always block
+in nx_state
+in decode                 875
+in no reset always block
+in nx_state
+in decode                 885
+in no reset always block
+in nx_state
+in decode                 895
+in no reset always block
+in nx_state
+in decode                 905
+in no reset always block
+in nx_state
+in decode                 915
+in no reset always block
+in nx_state
+in decode                 925
+in no reset always block
+in nx_state
+in decode                 935
+in no reset always block
+in nx_state
+in decode                 945
+in no reset always block
+in nx_state
+in decode                 955
+in no reset always block
+in nx_state
+in decode                 965
+in no reset always block
+in nx_state
+in decode                 975
+in no reset always block
+in nx_state
+in decode                 985
+in no reset always block
+in nx_state
+in decode                 995
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  35
+in no reset always block
+in nx_state
+I am in !run_write                  45
+incremeting i memm addr
+in no reset always block
+in nx_state
+I am in !run_write                  55
+incremeting i memm addr
+in no reset always block
+in nx_state
+I am in !run_write                  65
+incremeting i memm addr
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+in run_write                  85
+in no reset always block
+in nx_state
+fetch 1                  95
+in no reset always block
+in nx_state
+fetch 1                 105
+in no reset always block
+in nx_state
+fetch 2                 115
+in no reset always block
+in nx_state
+fetch 2                 125
+in no reset always block
+in nx_state
+fetch 3                 135
+in no reset always block
+in nx_state
+fetch 3                 145
+in no reset always block
+in nx_state
+in decode                 155
+in no reset always block
+in nx_state
+in decode                 165
+in no reset always block
+in nx_state
+in decode                 175
+in no reset always block
+in nx_state
+in decode                 185
+in no reset always block
+in nx_state
+in decode                 195
+in no reset always block
+in nx_state
+in decode                 205
+in no reset always block
+in nx_state
+in decode                 215
+in no reset always block
+in nx_state
+in decode                 225
+in no reset always block
+in nx_state
+in decode                 235
+in no reset always block
+in nx_state
+in decode                 245
+in no reset always block
+in nx_state
+in decode                 255
+in no reset always block
+in nx_state
+in decode                 265
+in no reset always block
+in nx_state
+in decode                 275
+in no reset always block
+in nx_state
+in decode                 285
+in no reset always block
+in nx_state
+in decode                 295
+in no reset always block
+in nx_state
+in decode                 305
+in no reset always block
+in nx_state
+in decode                 315
+in no reset always block
+in nx_state
+in decode                 325
+in no reset always block
+in nx_state
+in decode                 335
+in no reset always block
+in nx_state
+in decode                 345
+in no reset always block
+in nx_state
+in decode                 355
+in no reset always block
+in nx_state
+in decode                 365
+in no reset always block
+in nx_state
+in decode                 375
+in no reset always block
+in nx_state
+in decode                 385
+in no reset always block
+in nx_state
+in decode                 395
+in no reset always block
+in nx_state
+in decode                 405
+in no reset always block
+in nx_state
+in decode                 415
+in no reset always block
+in nx_state
+in decode                 425
+in no reset always block
+in nx_state
+in decode                 435
+in no reset always block
+in nx_state
+in decode                 445
+in no reset always block
+in nx_state
+in decode                 455
+in no reset always block
+in nx_state
+in decode                 465
+in no reset always block
+in nx_state
+in decode                 475
+in no reset always block
+in nx_state
+in decode                 485
+in no reset always block
+in nx_state
+in decode                 495
+in no reset always block
+in nx_state
+in decode                 505
+in no reset always block
+in nx_state
+in decode                 515
+in no reset always block
+in nx_state
+in decode                 525
+in no reset always block
+in nx_state
+in decode                 535
+in no reset always block
+in nx_state
+in decode                 545
+in no reset always block
+in nx_state
+in decode                 555
+in no reset always block
+in nx_state
+in decode                 565
+in no reset always block
+in nx_state
+in decode                 575
+in no reset always block
+in nx_state
+in decode                 585
+in no reset always block
+in nx_state
+in decode                 595
+in no reset always block
+in nx_state
+in decode                 605
+in no reset always block
+in nx_state
+in decode                 615
+in no reset always block
+in nx_state
+in decode                 625
+in no reset always block
+in nx_state
+in decode                 635
+in no reset always block
+in nx_state
+in decode                 645
+in no reset always block
+in nx_state
+in decode                 655
+in no reset always block
+in nx_state
+in decode                 665
+in no reset always block
+in nx_state
+in decode                 675
+in no reset always block
+in nx_state
+in decode                 685
+in no reset always block
+in nx_state
+in decode                 695
+in no reset always block
+in nx_state
+in decode                 705
+in no reset always block
+in nx_state
+in decode                 715
+in no reset always block
+in nx_state
+in decode                 725
+in no reset always block
+in nx_state
+in decode                 735
+in no reset always block
+in nx_state
+in decode                 745
+in no reset always block
+in nx_state
+in decode                 755
+in no reset always block
+in nx_state
+in decode                 765
+in no reset always block
+in nx_state
+in decode                 775
+in no reset always block
+in nx_state
+in decode                 785
+in no reset always block
+in nx_state
+in decode                 795
+in no reset always block
+in nx_state
+in decode                 805
+in no reset always block
+in nx_state
+in decode                 815
+in no reset always block
+in nx_state
+in decode                 825
+in no reset always block
+in nx_state
+in decode                 835
+in no reset always block
+in nx_state
+in decode                 845
+in no reset always block
+in nx_state
+in decode                 855
+in no reset always block
+in nx_state
+in decode                 865
+in no reset always block
+in nx_state
+in decode                 875
+in no reset always block
+in nx_state
+in decode                 885
+in no reset always block
+in nx_state
+in decode                 895
+in no reset always block
+in nx_state
+in decode                 905
+in no reset always block
+in nx_state
+in decode                 915
+in no reset always block
+in nx_state
+in decode                 925
+in no reset always block
+in nx_state
+in decode                 935
+in no reset always block
+in nx_state
+in decode                 945
+in no reset always block
+in nx_state
+in decode                 955
+in no reset always block
+in nx_state
+in decode                 965
+in no reset always block
+in nx_state
+in decode                 975
+in no reset always block
+in nx_state
+in decode                 985
+in no reset always block
+in nx_state
+in decode                 995
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is Vireshsingh, on host VIRESH_PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;F:\Installations\XilinxISE\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;F:\Installations\XilinxISE\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+in reset always block
+in nx_state
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+in no reset always block
+in nx_state
+I am in !run_write                  35
+in no reset always block
+in nx_state
+I am in !run_write                  45
+incremeting i memm addr
+in no reset always block
+in nx_state
+I am in !run_write                  55
+incremeting i memm addr
+in no reset always block
+in nx_state
+I am in !run_write                  65
+incremeting i memm addr
+in no reset always block
+in nx_state
+in run_write                  75
+in no reset always block
+in nx_state
+in run_write                  85
+in no reset always block
+in nx_state
+fetch 1                  95
+in no reset always block
+in nx_state
+fetch 1                 105
+in no reset always block
+in nx_state
+fetch 2                 115
+in no reset always block
+in nx_state
+fetch 2                 125
+in no reset always block
+in nx_state
+fetch 3                 135
+in no reset always block
+in nx_state
+fetch 3                 145
+in no reset always block
+in nx_state
+in decode                 155
+in no reset always block
+in nx_state
+in decode                 165
+in no reset always block
+in nx_state
+in decode                 175
+in no reset always block
+in nx_state
+in decode                 185
+in no reset always block
+in nx_state
+in decode                 195
+in no reset always block
+in nx_state
+in decode                 205
+in no reset always block
+in nx_state
+in decode                 215
+in no reset always block
+in nx_state
+in decode                 225
+in no reset always block
+in nx_state
+in decode                 235
+in no reset always block
+in nx_state
+in decode                 245
+in no reset always block
+in nx_state
+in decode                 255
+in no reset always block
+in nx_state
+in decode                 265
+in no reset always block
+in nx_state
+in decode                 275
+in no reset always block
+in nx_state
+in decode                 285
+in no reset always block
+in nx_state
+in decode                 295
+in no reset always block
+in nx_state
+in decode                 305
+in no reset always block
+in nx_state
+in decode                 315
+in no reset always block
+in nx_state
+in decode                 325
+in no reset always block
+in nx_state
+in decode                 335
+in no reset always block
+in nx_state
+in decode                 345
+in no reset always block
+in nx_state
+in decode                 355
+in no reset always block
+in nx_state
+in decode                 365
+in no reset always block
+in nx_state
+in decode                 375
+in no reset always block
+in nx_state
+in decode                 385
+in no reset always block
+in nx_state
+in decode                 395
+in no reset always block
+in nx_state
+in decode                 405
+in no reset always block
+in nx_state
+in decode                 415
+in no reset always block
+in nx_state
+in decode                 425
+in no reset always block
+in nx_state
+in decode                 435
+in no reset always block
+in nx_state
+in decode                 445
+in no reset always block
+in nx_state
+in decode                 455
+in no reset always block
+in nx_state
+in decode                 465
+in no reset always block
+in nx_state
+in decode                 475
+in no reset always block
+in nx_state
+in decode                 485
+in no reset always block
+in nx_state
+in decode                 495
+in no reset always block
+in nx_state
+in decode                 505
+in no reset always block
+in nx_state
+in decode                 515
+in no reset always block
+in nx_state
+in decode                 525
+in no reset always block
+in nx_state
+in decode                 535
+in no reset always block
+in nx_state
+in decode                 545
+in no reset always block
+in nx_state
+in decode                 555
+in no reset always block
+in nx_state
+in decode                 565
+in no reset always block
+in nx_state
+in decode                 575
+in no reset always block
+in nx_state
+in decode                 585
+in no reset always block
+in nx_state
+in decode                 595
+in no reset always block
+in nx_state
+in decode                 605
+in no reset always block
+in nx_state
+in decode                 615
+in no reset always block
+in nx_state
+in decode                 625
+in no reset always block
+in nx_state
+in decode                 635
+in no reset always block
+in nx_state
+in decode                 645
+in no reset always block
+in nx_state
+in decode                 655
+in no reset always block
+in nx_state
+in decode                 665
+in no reset always block
+in nx_state
+in decode                 675
+in no reset always block
+in nx_state
+in decode                 685
+in no reset always block
+in nx_state
+in decode                 695
+in no reset always block
+in nx_state
+in decode                 705
+in no reset always block
+in nx_state
+in decode                 715
+in no reset always block
+in nx_state
+in decode                 725
+in no reset always block
+in nx_state
+in decode                 735
+in no reset always block
+in nx_state
+in decode                 745
+in no reset always block
+in nx_state
+in decode                 755
+in no reset always block
+in nx_state
+in decode                 765
+in no reset always block
+in nx_state
+in decode                 775
+in no reset always block
+in nx_state
+in decode                 785
+in no reset always block
+in nx_state
+in decode                 795
+in no reset always block
+in nx_state
+in decode                 805
+in no reset always block
+in nx_state
+in decode                 815
+in no reset always block
+in nx_state
+in decode                 825
+in no reset always block
+in nx_state
+in decode                 835
+in no reset always block
+in nx_state
+in decode                 845
+in no reset always block
+in nx_state
+in decode                 855
+in no reset always block
+in nx_state
+in decode                 865
+in no reset always block
+in nx_state
+in decode                 875
+in no reset always block
+in nx_state
+in decode                 885
+in no reset always block
+in nx_state
+in decode                 895
+in no reset always block
+in nx_state
+in decode                 905
+in no reset always block
+in nx_state
+in decode                 915
+in no reset always block
+in nx_state
+in decode                 925
+in no reset always block
+in nx_state
+in decode                 935
+in no reset always block
+in nx_state
+in decode                 945
+in no reset always block
+in nx_state
+in decode                 955
+in no reset always block
+in nx_state
+in decode                 965
+in no reset always block
+in nx_state
+in decode                 975
+in no reset always block
+in nx_state
+in decode                 985
+in no reset always block
+in nx_state
+in decode                 995

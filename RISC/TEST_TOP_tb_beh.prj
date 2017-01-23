@@ -1,0 +1,8 @@
+verilog work "../DSP_Proj/DSP_Proj/PC.v"
+verilog work "../DSP_Proj/DSP_Proj/MEMORY.v"
+verilog work "../DSP_Proj/DSP_Proj/Instruc_Memory.v"
+verilog work "../DSP_Proj/DSP_Proj/Control_Unit.v"
+verilog work "../DSP_Proj/DSP_Proj/ALU.v"
+verilog work "../DSP_Proj/DSP_Proj/Processor_top_module.v"
+verilog work "../DSP_Proj/DSP_Proj/TEST_TOP_tb.v"
+verilog work "F:/Installations/XilinxISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

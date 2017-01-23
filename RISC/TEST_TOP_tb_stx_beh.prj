@@ -1,0 +1,8 @@
+verilog isim_temp "../DSP_Proj/DSP_Proj/PC.v"
+verilog isim_temp "../DSP_Proj/DSP_Proj/MEMORY.v"
+verilog isim_temp "../DSP_Proj/DSP_Proj/Instruc_Memory.v"
+verilog isim_temp "../DSP_Proj/DSP_Proj/Control_Unit.v"
+verilog isim_temp "../DSP_Proj/DSP_Proj/ALU.v"
+verilog isim_temp "../DSP_Proj/DSP_Proj/Processor_top_module.v"
+verilog isim_temp "../DSP_Proj/DSP_Proj/TEST_TOP_tb.v"
+verilog isim_temp "F:/Installations/XilinxISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"
